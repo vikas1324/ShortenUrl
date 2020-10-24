@@ -23,9 +23,8 @@ webpage) will open up.
 ```
     npm install 
 ```
-4. Put your database credential in ```src/db/config.js```
-5. Run project on node server using following command
+4. Run project on node server using following command
 ```
     npm start
 ```
-6. Application run on the PORT 3000. The url ``` http://<your-domain>:3000 ``` open in the browser
+5. Application run on the PORT 3000. The url ``` http://<your-domain>:3000 ``` open in the browser
